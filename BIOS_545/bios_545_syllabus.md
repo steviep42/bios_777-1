@@ -1,11 +1,11 @@
-## Department: Biostatistics
-## Course Number: 545 
-## Section Number: 1
-## Credit Hours: 2
-## Course Title: Introduction to R Programming
-## Instructor Name: Steve Pittard
-## Instructor Contact Info: wsp@emory.edu
-## Office Hours: Immediately following olass or by appointment
+### Department: Biostatistics
+### Course Number: 545 
+### Section Number: 1
+### Credit Hours: 2
+### Course Title: Introduction to R Programming
+### Instructor Name: Steve Pittard
+### Instructor Contact Info: wsp@emory.edu
+### Office Hours: Immediately following olass or by appointment
 
 ## Course Description:
 This class is designed to provide an introduction to R and R programming. Upon successful completion of this course, students will be able to:
